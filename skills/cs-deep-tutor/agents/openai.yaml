@@ -1,0 +1,4 @@
+interface:
+  display_name: "CS Bilingual Deep Tutor"
+  short_description: "Bilingual CS textbook reading, mastery, and review"
+  default_prompt: "Use $cs-deep-tutor to start a source-grounded bilingual deep-reading session for my current CS textbook."
