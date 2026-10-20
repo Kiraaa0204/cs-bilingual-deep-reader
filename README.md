@@ -1,5 +1,7 @@
 # Computer Science Bilingual Deep Reading System
 
+`阅读cs相关书籍使用skills，纯自用`
+
 这是一套以 Codex 对话为主、本地 Markdown 为长期记忆的计算机教材中英双语精读系统。原始 PDF 始终只读；逐页证据、知识库、进度、错题与复习计划保存在 `library/books/`。
 
 ## 一次性准备
